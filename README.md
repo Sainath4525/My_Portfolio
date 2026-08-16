@@ -1,3 +1,4 @@
+
 # ⚡ Sainath - Developer Portfolio
 
 A modern, award-winning personal portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**.
@@ -56,3 +57,7 @@ All personal information, social links, project descriptions, skills, education,
 - **Animations**: Framer Motion
 - **Icons**: Lucide React + SVG Icons
 - **Effects**: Canvas Confetti
+
+# My_Portfolio
+About Me
+ 2645f7521d8841b52a7be4a4745d4e5e61e8a3c2
