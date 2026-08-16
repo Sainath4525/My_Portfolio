@@ -7,7 +7,7 @@ export const personalInfo = {
   title: "Computer Science Undergraduate | Full-Stack & AI Enthusiast",
   roleTagline: "B.Tech CSE @ UVCE Bengaluru • Class of 2027",
   bio: "I'm a passionate Computer Science undergraduate with a strong foundation in Full-Stack Web Development, Artificial Intelligence, Data Structures & Algorithms, and Information Security. I love architecting robust, scalable software that solves meaningful real-world challenges.",
-  avatar: "/profile.jpg", // Profile photo located in /public/profile.jpg
+  avatar: `${import.meta.env.BASE_URL}profile.jpg`, // Profile photo located in /public/profile.jpg
   resumeUrl: "/resume.pdf", // Direct link to your hosted resume PDF
   resumeDownloadName: "Sainath_Resume.pdf",
   email: "sainath4525@gmail.com",
